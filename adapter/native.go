@@ -3,7 +3,7 @@ package adapter
 import (
 	"fmt"
 
-	"github.com/espigah/log5ws"
+	"github.com/Espigah/log5ws"
 )
 
 type Native struct {

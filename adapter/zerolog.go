@@ -1,7 +1,7 @@
 package adapter
 
 import (
-	"github.com/espigah/log5ws"
+	"github.com/Espigah/log5ws"
 	"github.com/rs/zerolog"
 )
 

@@ -1,3 +1,5 @@
+github.com/Espigah/log5ws v0.0.1 h1:Xuzj1wsbdMzI5Fl3gO4ZwNRQU8vVQrOqe1Td6SU+UFE=
+github.com/Espigah/log5ws v0.0.1/go.mod h1:jmLzlO/eqbW8OIkrSTDHlV0JvOh1mOSpSwsa771ym8M=
 github.com/benbjohnson/clock v1.1.0/go.mod h1:J11/hYXuz8f4ySSvYwY0FKfm+ezbsZBKZxNJlLklBHA=
 github.com/coreos/go-systemd/v22 v22.3.2/go.mod h1:Y58oyj3AT4RCenI/lSvhwexgC+NSVTIJ3seZv2GcEnc=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=

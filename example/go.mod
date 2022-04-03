@@ -3,6 +3,7 @@ module github.com/Espigah/log5ws/example
 go 1.17
 
 require (
+	github.com/Espigah/log5ws v0.0.1 // indirect
 	github.com/rs/zerolog v1.26.1 // indirect
 	go.uber.org/atomic v1.9.0 // indirect
 	go.uber.org/multierr v1.8.0 // indirect

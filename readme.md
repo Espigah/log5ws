@@ -2,6 +2,12 @@
 
 The log5ws package provides a simple logger wrapper dedicated to 5W input/output.
 
+# Installation
+
+```
+go get -u github.com/Espigah/log5ws
+```
+
 # Example
 
 ```go
