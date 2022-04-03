@@ -36,7 +36,11 @@ ID:Native | Who:me | What:something | When:today | Where:here | Why:because
 
 # Links
 
-* Palestra sobre os 5w do log - https://dev.to/solidusio/the-5-w-s-of-application-logging-77e
-* Um pouco da história por trás dos 5w - https://en.wikipedia.org/wiki/Five_Ws
-* Artigo que fala como fazer log direito - https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.173.2198&rep=rep1&type=pdf
-* Realizando logging de maneira sistemática no Dev Eficiente  https://www.youtube.com/watch?v=gRrDUKxcqLM
+* Video about "The 5 W's of Application Logging" - https://dev.to/solidusio/the-5-w-s-of-application-logging-77e
+* A history behind the 5w - https://en.wikipedia.org/wiki/Five_Ws
+* Article about how to log correctly - https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.173.2198&rep=rep1&type=pdf
+* Realizando logging de maneira sistemática by Dev Eficiente  https://www.youtube.com/watch?v=gRrDUKxcqLM
+
+# Todo
+
+* remove coupling for the libs

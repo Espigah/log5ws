@@ -1,6 +1,8 @@
-package main
+package log5ws_test
 
 import (
+	"testing"
+
 	"github.com/Espigah/log5ws"
 	"github.com/Espigah/log5ws/adapter"
 	"github.com/rs/zerolog"
@@ -8,9 +10,8 @@ import (
 	"go.uber.org/zap"
 )
 
-func main() {
+func TestCtxDisabled(t *testing.T) {
 	zerolog.TimeFieldFormat = zerolog.TimeFormatUnix
-
 	logger, _ := zap.NewProduction()
 	defer logger.Sync()
 
